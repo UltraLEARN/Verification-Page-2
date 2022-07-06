@@ -60,19 +60,15 @@
   }
   
   .btn{
-    height: 30px;
-    width: 33vw;
-    background-color: 
-    #5F0F40;
-    color: white;
-    font-size: 16px;
-    border-radius: 5px;
+        height: 50px;
+  width: 70%;
+  background-color: 
+  #5F0F40;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
   }
-  
-  
-  .centreright p{
-    font-family: Arial, Helvetica, sans-serif;
-  }
+
   h6{
     margin-left:38%;
     font-size: 15px;
